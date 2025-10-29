@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--## 👨‍💻 About Me
+👨‍💻 About Me
 
 Hi, I'm **IRFAN SHAIKH**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
 
