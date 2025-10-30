@@ -85,6 +85,9 @@
   <a href="sajid0100shaikh@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://x.com/SAZID337972">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
 ---
