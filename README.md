@@ -1,6 +1,6 @@
 <!-- Header Banner -->
-<h1 align="center">👋 Hey there, I'm Sajid Shaikh</h1>
-<h3 align="center">🚀 SRE | DevOps | Cloud | Automation Enthusiast</h3>
+<h1 align="center"> Hey there, I'm Sajid Shaikh</h1>
+<h3 align="center"> SRE | DevOps | Cloud | Automation Enthusiast</h3>
 
 
 ---
@@ -93,4 +93,3 @@
 
 ---
 
-> “ Persistence is very important. You should not give up unless you are forced to give up ” — Elon Musk 🚀  
