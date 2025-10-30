@@ -12,8 +12,7 @@
 🔹 Strong understanding of **CI/CD pipelines**, **Infrastructure as Code (Terraform, Ansible)**, and **GitOps with ArgoCD**.  
 🔹 Proficient in **backend tools and scripting** — Python, Go, Bash.  
 🔹 Experience with **databases** like MySQL and PostgreSQL, and backend technologies like Node.js and Express.  
-🔹 Enthusiastic about **multi-cloud setups**, **container orchestration**, and **infrastructure automation**.  
-🔹 I enjoy simplifying complex DevOps workflows and mentoring others in cloud technologies.  
+🔹 Enthusiastic about **multi-cloud setups**, **container orchestration**, and **infrastructure automation**.    
 
 ---
 
