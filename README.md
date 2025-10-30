@@ -71,41 +71,18 @@
 
 ---
 
-## 🚀 DevOps Projects  
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **CI/CD Pipeline with Jenkins** | Automated build, test, and deploy pipeline for Dockerized app | Jenkins, Docker, K8s |
-| **GitHub Actions Workflow** | Auto-build & push Docker images on push events | GitHub Actions, Docker |
-| **GitOps Deployment** | ArgoCD for continuous deployment to Kubernetes | ArgoCD, Helm, K8s |
-| **Monitoring Stack Setup** | Implemented full observability with alerts | Prometheus, Grafana |
-| **Cloud Infrastructure** | Multi-cloud setup with IaC and automation | AWS, Azure, Terraform |
-
----
-
-## 📊 My GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidshaikh&theme=github-dark-blue" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajidshaikh&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidshaikh&layout=compact&theme=github_dark"/>
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/sajid-shaikh01/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/sajidshaikh">
+  <a href="https://github.com/sajidshaikh-01">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="sajid0100shaikh@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
