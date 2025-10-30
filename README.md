@@ -1,26 +1,26 @@
 <!-- Header Banner -->
-<h1 align="center">Hey there 👋, I'm Sajid Shaikh</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud | CI/CD | Automation Enthusiast</h3>
+<h1 align="center">👋 Hey there, I'm Sajid Shaikh</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud | CI/CD | GitOps | Automation Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me  
 
-🎯 I'm a passionate **DevOps Engineer** from India, focused on building scalable, secure, and automated infrastructures.  
-☁️ Currently learning and working with **AWS, Azure, Kubernetes, and GitHub Actions**.  
-💡 I love creating **CI/CD pipelines**, automating cloud infrastructure, and exploring **GitOps and SRE** concepts.  
-🧩 In my free time, I work on open-source DevOps projects and mentor others in the Cloud/DevOps journey.  
+🔹 Passionate **DevOps Engineer** skilled in building automated, reliable, and scalable infrastructure.  
+🔹 Hands-on experience with **AWS, Azure, Docker, Kubernetes, Jenkins, and GitHub Actions**.  
+🔹 Focused on **CI/CD pipelines, GitOps with ArgoCD**, and secure **Secrets Management** using Vault.  
+🔹 Currently learning **advanced Kubernetes concepts** and improving my **multi-cloud skills**.  
+🔹 I enjoy simplifying complex DevOps workflows and mentoring others in cloud technologies.  
 
 ---
 
-## 🧰 Languages and Tools  
+## 🧰 Tech Stack  
 
 <p align="center">
   <!-- Cloud -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  
+
   <!-- Containers -->
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white"/>
 
-  <!-- IaC -->
+  <!-- IaC & Config -->
   <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
 
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
 
-  <!-- Programming -->
+  <!-- Scripting -->
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -48,29 +48,29 @@
 
 ## 🚀 My DevOps Projects  
 
-| Project | Description | Stack |
-|----------|--------------|--------|
-| **CI/CD with Jenkins** | Automated build and deploy pipeline | Jenkins, Docker, K8s |
-| **GitHub Actions CI/CD** | Workflow to build & push Docker image to DockerHub | GitHub Actions, Docker |
-| **GitOps with ArgoCD** | Automated deployment via GitOps | ArgoCD, Kubernetes |
-| **Terraform Infrastructure** | Infrastructure automation on AWS | Terraform, AWS |
-| **Monitoring Stack** | End-to-end monitoring solution | Prometheus, Grafana |
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| **1️⃣ CI/CD Pipeline with Jenkins** | Built a full CI/CD pipeline to build, test, and deploy a Dockerized app to Kubernetes | Jenkins, Docker, Kubernetes |
+| **2️⃣ GitHub Actions Workflow** | Automated image build & push to DockerHub, triggered on every push to `main` | GitHub Actions, Docker |
+| **3️⃣ GitOps Deployment with ArgoCD** | Continuous Deployment to K8s using GitOps principles | ArgoCD, K8s, Helm |
+| **4️⃣ Monitoring Stack Setup** | Implemented observability using Prometheus and Grafana | Prometheus, Grafana |
+| **5️⃣ Multi-Cloud Setup** | Deployed infrastructure on both AWS and Azure using IaC | Terraform, AWS, Azure |
 
 ---
 
-## 🧠 Currently Learning  
+## 🌱 Currently Learning  
 
-🔹 Kubernetes Advanced Concepts (KEDA, Operators)  
-🔹 HashiCorp Vault Integration  
-🔹 SRE & Cloud Cost Optimization  
-🔹 Multi-cloud CI/CD  
+✅ Advanced Kubernetes (KEDA, Operators, HPA)  
+✅ GitHub Actions Advanced Concepts (Matrix, Self-Hosted Runners)  
+✅ HashiCorp Vault Integration for Secrets  
+✅ Cloud Security & Cost Optimization  
 
 ---
 
-## 📊 My Stats  
+## 📊 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidshaikh&theme=github-dark-blue" alt="sajidshaikh streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidshaikh&theme=github-dark-blue" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/your-link">
@@ -96,10 +96,7 @@
 
 ---
 
-### ⚡ Fun Fact  
-
-💬 “Automate everything. Deploy confidently. Monitor continuously.”  
-🌱 Always learning, always improving 🚀  
+### ⚡ Quote I Follow  
+> “Automate everything you can. Deploy confidently. Monitor relentlessly.” 🚀  
 
 ---
-
