@@ -1,6 +1,7 @@
 <!-- Header Banner -->
 <h1 align="center">👋 Hey there, I'm Sajid Shaikh</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud | CI/CD | GitOps | Automation Enthusiast</h3>
+<h3 align="center">🚀 SRE | DevOps | Cloud | Automation Enthusiast</h3>
+
 
 ---
 
