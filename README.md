@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 
-🔹 Passionate **DevOps Engineer** skilled in building automated, reliable, and scalable infrastructure.  
+🔹 **DevOps Engineer** skilled in building automated, reliable, and scalable infrastructure.  
 🔹 Hands-on experience with **AWS, Azure, Docker, Kubernetes, Jenkins, and GitHub Actions**.  
 🔹 Strong understanding of **CI/CD pipelines**, **Infrastructure as Code (Terraform, Ansible)**, and **GitOps with ArgoCD**.  
 🔹 Proficient in **backend tools and scripting** — Python, Go, Bash.  
