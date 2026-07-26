@@ -7,13 +7,27 @@
 
 ## 👨‍💻 About Me  
 
-🔹 **DevOps Engineer** skilled in building automated, reliable, and scalable infrastructure.  
-🔹 Hands-on experience with **AWS, Azure, Docker, Kubernetes, Jenkins, and GitHub Actions**.  
-🔹 Strong understanding of **CI/CD pipelines**, **Infrastructure as Code (Terraform, Ansible)**, and **GitOps with ArgoCD**.  
-🔹 Proficient in **backend tools and scripting** — Python, Go, Bash.  
-🔹 Experience with **databases** like MySQL and PostgreSQL, and backend technologies like Node.js and Express.  
-🔹 Enthusiastic about **multi-cloud setups**, **container orchestration**, and **infrastructure automation**.    
+I’m SRE & DevOps Engineer with 2 years of hands-on experience working on AWS-based infrastructure, CI/CD automation, and Kubernetes platforms. I specialize in building reliable deployment pipelines and supporting production environments using tools like Docker, Kubernetes (EKS), Terraform, Jenkins, GitHub Actions, and Linux.
 
+In my current role, I work closely with development teams to automate application deployments, manage infrastructure as code, and improve system stability. I’ve supported monitoring and troubleshooting using Prometheus, Grafana, ELK, and CloudWatch, and I actively contribute to resolving production issues through log analysis and root cause investigation.
+
+I also automate operational workflows using Python and Bash to reduce manual effort and improve delivery reliability. Alongside DevOps practices, I’m continuously learning Site Reliability Engineering concepts such as SLI/SLO, incident management, and reliability-focused automation.
+
+I’m passionate about cloud technologies, automation, and building scalable systems, and I’m currently seeking opportunities as a DevOps Engineer / Junior SRE / Cloud Engineer where I can continue growing while contributing to production-grade platforms.
+
+Cloud: AWS (EC2, VPC, IAM, ALB, EKS, CloudWatch, Lambda, S3, RDS, Eventbridge, SNS,)
+Containerization: Docker, Kubernetes (EKS)
+Infrastructure as Code: Terraform, Ansible
+CI/CD: Jenkins, GitHub Actions
+GitOps: ArgoCD, FluxCD
+Monitoring & Observability: Prometheus, Grafana, ELK Stack, AWS CloudWatch, Pixie, Hubble
+Scripting & Automation: Python, Bash/Shell, Go
+Code Quality & Security: SonarQube, Trivy, OWASP Dependency Check
+Version Control: Git, GitHub, Gitea
+Operating Systems: Linux, Windows
+Networking Basics: VPC, Subnets, Security Groups, Load Balancers
+DevOps Practices: CI/CD Automation, Deployment Automation, Infrastructure Automation, Production Troubleshooting
+SRE : SLI/SLO, Incident Troubleshooting, Reliability Engineering Concepts
 ---
 
 ## 🧰 Tech Stack  
