@@ -1,6 +1,6 @@
 <!-- Header Banner -->
-<h1 align="center"> Hey there, I'm Sajid Shaikh</h1>
-<h3 align="center"> SRE | DevOps | Cloud | Automation </h3>
+<h1 align="center"> Hi, I'm Sajid Shaikh</h1>
+<h3 align="center"> DevOps Engineer | SRE | Cloud & Kubernetes | AI for DevOps </h3>
 
 
 ---
